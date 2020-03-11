@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/srdjanroksandic930220/Asure_Git_Test_1/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/srdjanroksandic930220/Asure_Git_Test_1/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
